@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>#welcome to durva's  media</title>
+    </head>
+    <body>
+        <h2><mark>Welcome to my world🤗</mark></h2>
+        <h1><ul><li>*My art collection*🎨🖌️</li></ul></h1>
+        <centre>
+           <ul><img src="canvas5.jpg" alt="canvaspainting" widht="200" height="200"></ul> 
+        </centre>
+        <centre>
+            <ul><img src="wall painting.jpg" alt="canvaspainting" widht="200" height="200"></ul>
+        </centre><h1><ul><li>*My favorite song collection*🎶</li></ul></h1>
+        <audio controls autoplay>
+            <source src="Ashe - Moral Of The Story (Lyrics).mp3" type="audio/mpeg">
+            your browser does not support audio tag
+        </audio>
+        <audio controls autoplay>
+            <source src="Justin Bieber - Baby ft. Ludacris.mp3" type="audio/mpeg">
+            your browser does not support audio tag
+        </audio>
+        <iframe width="315" height="560" src="https://www.youtube.com/embed/M6aj7qRdloc" title="Vegetable Masala Pasta 🤤 #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>></iframe>"
+        
+        <h2><ul><li> this is also one of my favourite video</li></ul></h2>
+        <video width="200" height="200" controls autoplay poster="image.png" loop>
+            <source src="My biggest support system  🥹From being the garba queen herself to recording our videos …..Ma toh ma hai  @neetishukla01Captured by @diiyashukla 🥹 (1).mp4" type="video/mp4">
+        </video>
+    </body>
+</html>
